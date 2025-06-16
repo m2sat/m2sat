@@ -8,7 +8,7 @@
 - 🎓 Final-year CSE student at ITER, SOA University  
 - 💡 Interested in AI/ML,Robotics, Product development, and tech-enabled business strategy 
 - 💬 Ask me about Python, SQL, Flutter, C++, Business Analytics & Development
-- 📫 Reach me at: [mimansasatpathy@gmail.com](mailto:mimansasatpathy@gmail.com)  
+- 📫 Reach me at: [satpathymimansa@gmail.com](mailto:satpathymimansa@gmail.com)  
   
 
 ---
